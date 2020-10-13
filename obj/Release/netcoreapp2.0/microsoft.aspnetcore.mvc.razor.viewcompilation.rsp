@@ -1,0 +1,12 @@
+E:\学习资料\MyJenkins
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=MyJenkins
+--content-root=E:\学习资料\MyJenkins
+--file=E:\学习资料\MyJenkins\Views\Home\About.cshtml
+--file=E:\学习资料\MyJenkins\Views\Home\Contact.cshtml
+--file=E:\学习资料\MyJenkins\Views\Home\Index.cshtml
+--file=E:\学习资料\MyJenkins\Views\Shared\Error.cshtml
+--file=E:\学习资料\MyJenkins\Views\Shared\_Layout.cshtml
+--file=E:\学习资料\MyJenkins\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\学习资料\MyJenkins\Views\_ViewImports.cshtml
+--file=E:\学习资料\MyJenkins\Views\_ViewStart.cshtml

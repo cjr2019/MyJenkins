@@ -1,0 +1,16 @@
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\appsettings.Development.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\appsettings.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\bundleconfig.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\MyJenkins.deps.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\MyJenkins.runtimeconfig.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\MyJenkins.runtimeconfig.dev.json
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\MyJenkins.dll
+E:\学习资料\MyJenkins\bin\Release\netcoreapp2.0\MyJenkins.pdb
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.csprojAssemblyReference.cache
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.AssemblyInfoInputs.cache
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.AssemblyInfo.cs
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.csproj.CoreCompileInputs.cache
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.dll
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.pdb
+E:\学习资料\MyJenkins\obj\Release\netcoreapp2.0\MyJenkins.genruntimeconfig.cache
